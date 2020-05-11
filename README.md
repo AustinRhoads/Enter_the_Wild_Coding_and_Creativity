@@ -1,4 +1,4 @@
-#Enter the Wild: Coding and Creativity
+# Enter the Wild: Coding and Creativity
 ## Welcome to GitHub Pages
 
 
