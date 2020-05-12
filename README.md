@@ -1,6 +1,13 @@
-# Creativity: Spring time in Death Valley
+# Creativity: Red leaf maple forest in Guadalupe National Park, TX
 
-When I think of creativity, typically something like Brian Wilson of the Beach Boys or David Bowie pops into my head. As a (fairly mediocre) songwriter myself, I'll hear something they wrote and think, "Damn, I wish I wrote that! I wonder where a song like that even comes from.". Most people dont associate a technical skill with creativity but as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. I utilize the Nokogiri gem to scrape data off the national parks website. All this has come pretty easy to me 
+When I think of creativity, typically something like Brian Wilson of the Beach Boys or David Bowie pops into my head. As a (fairly mediocre) songwriter myself, I'll hear something they wrote and think, "Damn, I wish I wrote that! I wonder where a song like that even comes from.". Most people dont associate a technical skill with creativity but as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. I utilize the Nokogiri gem to scrape data off the national parks website.
+
+# Nokogiri: Ice fishing in Lake Clark, AL 
+
+# Object Oriented Programming: Spring time in Death Valley
+
+# conclusion: 
+Creativity comes from solving big problems. Hitting a wall is the best oppotunity to to let your imagination explore its inventiveness.
 ## Welcome to GitHub Pages
 
 
