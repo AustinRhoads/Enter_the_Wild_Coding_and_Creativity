@@ -1,4 +1,6 @@
-# Enter the Wild: Coding and Creativity
+# Creativity: Spring time in Death Valley
+
+When we think of creativity, typically we think of painters, songwriters or maybe a novelist. I like to picture a starving genius living in a bohemian rundown apartment painting masterpieces that wont be appreciated until long after her death. The spark of creativity is an elusive rush of insperation flowing into the artist's mind that only she has access to. I usually dont think of a guy like me, caffiene soaked, sharpening my technical skills on codewars. As I enter into the world of coding mostly it seems I'm learning correct syntax or a technical concept to achieve a desired result. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a list of national parks which host said activities. I utilize the Nokogiri gem to scrape data off the national parks website.
 ## Welcome to GitHub Pages
 
 
