@@ -1,16 +1,20 @@
-# Creativity: Red leaf maple forest in Guadalupe National Park, TX
+# Creativity: 
+## Red leaf maple forest in Guadalupe National Park, TX
 
 When I think of creativity, typically something like Brian Wilson, of the Beach Boys, or David Bowie pops into my head. As a (fairly mediocre) songwriter myself, I'll hear something they wrote and think, "Damn, I wish I wrote that! I wonder where a song like that even comes from.". Most people dont associate a technical skill with creativity but as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. It's an excorcise in Object Oriented Programming while utilizing the Nokogiri gem to scrape data off the national parks website.
 
-# Nokogiri: Ice fishing in Lake Clark, AL 
+# Nokogiri: 
+## Ice fishing in Lake Clark, AL 
 Hitting a wall fishing for data. This was sort of like a winter in that the program was vary sparse and i was unsure of its outcome.
 
 
-# Object Oriented Programming: Spring time in Death Valley
+# Object Oriented Programming:
+## Spring time in Death Valley, CA
 Some text here about how all the little critters come out in springtime. Objects are like creatures in an ecosystem that work in a mutually beneficial way. State object, Park objects, The Scraper and the cli class.
 
 
 # conclusion: 
+## Summer somewhere, SW
 Creativity comes from solving big problems. Hitting a wall is the best oppotunity to to let your imagination explore its inventiveness.
 ## Welcome to GitHub Pages
 
