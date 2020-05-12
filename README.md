@@ -1,10 +1,10 @@
 # Creativity: 
 ## Red leaf maple forest in Guadalupe National Park, TX
 
-When I think of creativity, typically something like Brian Wilson, of the Beach Boys, or David Bowie pops into my head. Most people dont associate creativity with a tecchnical skill such as coding, much like they don't associate the colors of fall with the maples of west Texas. However, as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. It's an excorcise in Object Oriented Programming while utilizing the Nokogiri gem to scrape data off the national parks website.
+When I think of creativity, typically something like Brian Wilson, of the Beach Boys, or David Bowie pops into my head. Most people dont associate creativity with a tecchnical skill such as coding, much like they don't associate the colors of fall with the maple trees of west Texas. However, as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. It's an excorcise in Object Oriented Programming while utilizing the Nokogiri gem to scrape data off the national parks website.
 
 # Nokogiri: 
-## Ice fishing in Lake Clark, AL 
+## Ice fishing in Lake Clark, Ak 
 Hitting a wall fishing for data. This was sort of like a winter in that the program was vary sparse and i was unsure of its outcome.
 
 
