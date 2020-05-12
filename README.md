@@ -1,8 +1,6 @@
 # Creativity: Spring time in Death Valley
 
-When I think of creativity, typically something like Brian Wilson of the Beach Boys or David Bowie pops into my head. As a (fairly mediocre) songwriter myself, I'll hear something they wrote and think, "Damn, I wish I wrote that! I wonder where a song like that even comes from.". What I DON'T naturally assocciate with creativity is someone parsing through text on a government website reading countless StackOverflow articles about what I can do with an array.
-
-As I enter into the world of coding every new thing I learn excites me. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. I utilize the Nokogiri gem to scrape data off the national parks website. All this has come pretty easy to me 
+When I think of creativity, typically something like Brian Wilson of the Beach Boys or David Bowie pops into my head. As a (fairly mediocre) songwriter myself, I'll hear something they wrote and think, "Damn, I wish I wrote that! I wonder where a song like that even comes from.". Most people dont associate a technical skill with creativity but as I enter into the world of coding I am pleased to find many opportunities to get creative. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. I utilize the Nokogiri gem to scrape data off the national parks website. All this has come pretty easy to me 
 ## Welcome to GitHub Pages
 
 
