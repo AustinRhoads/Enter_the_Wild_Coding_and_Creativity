@@ -1,7 +1,7 @@
 # Creativity: 
-## the red leaf maple forest in Guadalupe National Park, TX
+## The red leaf maple forest in Guadalupe National Park, TX
 
-When I think of creativity, typically someone like Brian Wilson, of the Beach Boys, or David Bowie pops into my head. Most people dont associate creativity with a tecchnical skill such as coding, much like they don't associate the colors of fall with the maple trees of west Texas. However, as I enter into the world of coding I am pleased to find many opportunities to get creative and I decided to take this opportunity to share with people novel places such as Guadalupe National Park. My first real portfolio project is building a Ruby CLI app called find-a-park-cli, which allows users to search by state and choose from an array of outdoor activities to view a matching list of national parks. It's an excorcise in object oriented programming that utilizes the Nokogiri gem to scrape data off the national parks website.
+When I think of creativity, typically someone like Brian Wilson, of the Beach Boys, or David Bowie pops into my head. Most people dont associate creativity with a tecchnical skill such as coding. Nor do they associate the colors of fall with the maple trees of west Texas. However, as I enter into the world of coding I am pleased to find many opportunities to get creative and I decided to take this opportunity to share with people the beauty of novel places such as the Guadalupe National Park. My first real portfolio project is a Ruby CLI app called find-a-park-cli. This app allows users to search by state and by activity to view a matching list of national parks. It's an excorcise in object oriented programming that utilizes the Nokogiri gem to scrape data off the national parks website.
 
 
 # Nokogiri: 
