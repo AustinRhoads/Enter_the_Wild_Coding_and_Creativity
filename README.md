@@ -11,13 +11,13 @@ My first real portfolio project is a Ruby CLI app called find-a-park-cli. This a
 
 # Nokogiri: 
 ## Ice fishing in Lake Clark, Ak 
-Nokogiri is a Ruby gem used to parse files such as HTML. It's name comes from the Japanese fine toothed saw (BTW I happen to own one and any woodworkers out there should try it if given the chance. Clean, narrow cuts and some have both crosscut and ripsaw on either side of the blade! Super cool :) Anywho...) Thus far I could find what I was looking for by a simple two part process. First find the element with the selector tool and then do a bit of fishing until you return the desired data. This was, I thought, going to be the easiest part of the process. And it was, at first... 
+Nokogiri is a Ruby gem used to parse files such as HTML. It's name comes from the Japanese fine toothed saw (BTW I happen to own one and any woodworkers out there should try it if given the chance. Clean, narrow cuts and some have both crosscut and ripsaw on either side of the blade! Super cool :) Anywho...) Thus far I could find what I was looking for by a simple two part process. First inspect the page and find the element with the selector tool and then do a bit of fishing until you return the desired data. This was, I thought, going to be the easiest part of the process. And it was, at first... 
 
 The National Parks website which I had to scrape had a form of selectable elements, such as, the state and the activity to filter the search results. Scraping the state and activity names went by quickly and soon after I pulled the URL associated with each search result. I searched Alaska and fishing. One of the results was Lake Clark. I knew If I could pull the text "Lake Clark" the rest of the data would come quickly. However this didn't happen. I played around with selecting the parent elements by ID, by class name and nothing worked. I spent all day working on this without results. Eventually I printed all the XML nodes searching for the string "Lake CLark" but it was nowhere to be found. I love problem solving but I admit this was a _bit_ frustrating so I decided to take a break and take on a problem I knew I could solve, a sudoku puzzle.
 
-As I relaxed into solving this puzzle I thought, "What I love about sudoku is that all the answers you need are already there waiting to be descovered.", and then it all clicked!
+As I relaxed into solving this puzzle I thought, "What I love about sudoku is that all the answers you need are already there waiting to be discovered.", and then it all clicked!
 From what I learned about javascript before I started school at Flatiron, you could toggle classes so that elements would only be displayed when switched from an "unselected" class to a "selected" class. This meant that somewhere on that page was data on every single park. I inspected the site's sources and sure enough I found a Json file with every single park listed with all activities and states associated with the park! I didn't know a thing about Json but it didn't matter. I could parse everything I needed from the text of this file. All the answers I needed were in one place waiting to be discovered.
-
+Often creativity is the product of seeing things from a new perspective. Never underestimate the power of taking a step back.
 
 # Object Oriented Programming:
 ## Spring time in Death Valley, CA
