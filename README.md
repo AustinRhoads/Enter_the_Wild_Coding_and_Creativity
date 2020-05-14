@@ -1,5 +1,5 @@
 # Creativity: 
-![Image](src = "https://github.com/AustinRhoads/Enter_the_Wild_Coding_and_Creativity/blob/master/maples_guadalupe_nps.jpg")
+![Image](https://github.com/AustinRhoads/Enter_the_Wild_Coding_and_Creativity/blob/master/maples_guadalupe_nps.jpg)
 ## The red leaf maple forest in Guadalupe National Park, TX
 
 When I think of creativity, immediatly the french painter Jean Giraud, "Moebius", pops into my head. His work is other worldly and extremely imaginitive as is evident in his costume and set design of the movie _The Fifth Element_. Most people dont associate creativity with a technical skill such as coding. However, creativity and critical thinking have always gone hand in hand. Simply observe the work of any great artist to see the fruits of great technical skill coupled with personal vision. As a newb entering into the world of coding, I am pleased to find many opportunities to get creative and I decided to make an app that connects people with the beauty of novel places such as the maple forest of Guadalupe National Park.
