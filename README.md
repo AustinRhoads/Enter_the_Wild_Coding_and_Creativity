@@ -1,4 +1,4 @@
-# Creativity 
+
 ![Image](./moebius_walls.jpg)
 ###                                                                        _Walls_ -Moebius
 
@@ -10,7 +10,7 @@ My first real portfolio project is a Ruby CLI app called find-a-park-cli. This a
 
  
 
-# Nokogiri 
+# Nokogiri and Sudoku
 ## Ice fishing in Lake Clark, Ak 
 Nokogiri is a Ruby gem used to parse files such as HTML. It's name comes from the Japanese fine toothed saw (BTW I happen to own one and any woodworkers out there should try it if given the chance. Clean, narrow cuts and some have both crosscut and ripsaw on either side of the blade! Super cool :) Anywho...) Thus far I could find what I was looking for by a simple two part process. First inspect the page and find the element with the selector tool and then do a bit of fishing until you return the desired data. I thought this was going to be the easiest part of the process. And it was, at first... 
 
