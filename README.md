@@ -23,7 +23,7 @@ The National Parks website I was to scrape had a form of selectable elements, su
 
 What I love about sudoku is that all the answers you need are already there waiting to be discovered. I was thinking about this when I remembered something I had learned to do with javascript, class toggle.
 Basically, class toggle works like this... say you have a list of _park_ objects. You give each _park_ the class name "unselected". Elements would only be displayed on the HTML if they have a "selected" class. What toggle does is switches the class name from "unselected" to "selected" or visa versa to display or not display a _park_ within the HTML. This meant that somewhere on that page was data on every single park. I inspected the site's sources and sure enough I found a Json file with every single park listed with all activities and states associated with the park! I didn't know a thing about Json but it didn't matter. I could parse everything I needed from the text of this file with one scrape. All the answers I needed were in one place waiting to be discovered.
-Often creativity is the product of gaining a new perspective. Never underestimate the power of taking breaks.
+Often creativity is the product of gaining a new perspective. Sometimes it's best to take a break and look at a problem with fresh eyes.
 
 
 
