@@ -1,4 +1,4 @@
-# Creativity: 
+# Creativity 
 ![Image](https://github.com/AustinRhoads/Enter_the_Wild_Coding_and_Creativity/blob/master/maples_guadalupe_nps.jpg)
 ## The red leaf maple forest in Guadalupe National Park, TX
 
@@ -10,7 +10,7 @@ My first real portfolio project is a Ruby CLI app called find-a-park-cli. This a
 
  
 
-# Nokogiri: 
+# Nokogiri 
 ## Ice fishing in Lake Clark, Ak 
 Nokogiri is a Ruby gem used to parse files such as HTML. It's name comes from the Japanese fine toothed saw (BTW I happen to own one and any woodworkers out there should try it if given the chance. Clean, narrow cuts and some have both crosscut and ripsaw on either side of the blade! Super cool :) Anywho...) Thus far I could find what I was looking for by a simple two part process. First inspect the page and find the element with the selector tool and then do a bit of fishing until you return the desired data. I thought this was going to be the easiest part of the process. And it was, at first... 
 
@@ -20,14 +20,14 @@ What I love about sudoku is that all the answers you need are already there wait
 Basically, class toggle works like this... say you have a list of _park_ objects. You give each _park_ the class name "unselected". Elements would only be displayed on the HTML if they have a "selected" class. What toggle does is switches the class name from "unselected" to "selected" or visa versa to display or not display a _park_. This meant that somewhere on that page was data on every single park. I inspected the site's sources and sure enough I found a Json file with every single park listed with all activities and states associated with the park! I didn't know a thing about Json but it didn't matter. I could parse everything I needed from the text of this file. All the answers I needed were in one place waiting to be discovered.
 Often creativity is the product of gaining a new perspective. Never underestimate the power of taking breaks.
 
-# Object Oriented Programming:
+# Object Oriented Programming
 ## Spring time in Death Valley, CA
 At this point, my app had the data it needed but other than that it was as baren as a desert. I had to start building objects.
 Essentially, everything in Ruby is an object. From strings and integers to class instances and even class itself. An object is how we define talking about a thing. It is also a function, it defines how it interacts with other things. Objects are like creatures in an ecosystem that interact and grow with each other. A state is not only a name and abbreviation, "California, CA", but also in this context a state can have many parks, multiple states can have access to those parks, and there should never be more than one state with the same name. However, the state itself is not equal to it's name. A state is a state and any instance of a state or a park should reflect a real state or park as much as possible. I believe this to be an important distinction in OOP as it's concievable that a park could change it's name and in theory this should be the same instance of a park object. Another example would be if two different parks went by the same basic name and had the same genreal location ( which is the case for Natchez Trace scenic trail and Natchez Trace parkway in Alabama). If an object was defined soley by it's name many parks would not be created in an attempt to control redundancy. What this tells me is that as much as I try to make the state class like a real state it will always be an artifact designed by me to serve my purpose, and so I must always keep this in mind as im writing code.
 In my case I can use the url as the control factor. No two parks even with the same name should ever have the same URL.
 
 
-# conclusion: 
+# conclusion 
 ## Summer somewhere, SW
 Creativity comes from solving big problems. Hitting a wall is the best oppotunity to to let your imagination explore its inventiveness.
 ## Welcome to GitHub Pages
