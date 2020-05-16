@@ -3,11 +3,11 @@
 ###                                                                        _Star Wars concept art_ -Moebius
 
 
-When I think of creativity, immediatly the french painter Jean Giraud, "Moebius", pops into my head. His work is other worldly and extremely imaginitive as is evident in his costume and set design of the movie _The Fifth Element_. Most people dont associate creativity with a technical skill such as coding. However, creativity and critical thinking have always gone hand in hand. Simply observe the work of any great artist to see the fruits of great technical skill coupled with personal vision. As a newb entering into the world of coding, I am pleased to find many opportunities to get creative.
+When I think of creativity, immediatly the french painter Jean Giraud, "Moebius", pops into my head. His work is other-worldly and extremely imaginitive as is evident in his costume and set design of the movie _The Fifth Element_. Most people dont associate creativity with a technical skill such as coding. However, creativity and critical thinking have always gone hand in hand. Simply observe the works of any great artist to see the vast technical skill coupled with personal vision.
 
-Problem solving is a great springboard for creativity. The harder the problem the more deeply we can look into the critical nature of what we are trying to accomplish. This pushes us to learn new things and to innovate.
+As a newb entering into the world of coding, I am pleased to find many opportunities to get creative. Problem solving is a great example of a springboard for creativity. The harder the problem the more deeply we can look into the critical nature of what we are trying to accomplish. This pushes us to learn new things and to innovate.
 
-My first real portfolio project is a Ruby CLI app called find-a-park-cli. This app allows users to search by state and by activity to view a matching list of national parks. It's an excorcise in object oriented programming. All data is parsed from the National Parks website by using the Nokogiri gem. Throughout the process of building this app I was able to learn new things and explore alternitive ways to solve problems. My first big problem came very unexpectedly.
+My first real portfolio project is a Ruby CLI app called find-a-park-cli. This app allows users to search by state and by activity to view a matching list of national parks. It's an exercise in object oriented programming. All data is parsed from the National Parks website by using the Nokogiri gem. Throughout the process of building this app I was able to learn new things and explore alternitive ways to solve problems. My first big problem came while working with the Nokogiri gem.
 
  
  
