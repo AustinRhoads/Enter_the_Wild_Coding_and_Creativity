@@ -38,9 +38,26 @@ Essentially, everything in Ruby is an object. From strings and integers to class
 In my case I can use the url as the control factor. No two parks even with the same name should ever have the same URL.
 
 
+
+
+
+
+#  The Final Touches 
+
+The find-a-park-cli app worked but now I needed it to work better. When the app is launched first you must select a state and then select an activity to search by. As each list is pulled up there was a bit of a lag while it was being scraped and since a user could search for parks multiple times I didn't want this to be experienced at each search. The solution was to scrape both lists only once and assign them to a variable before the app prompts the user then only refer to these variables throughout the app preventing a rescrape. Tidying up the code like this made the user interface flow better. Adding a loading bar to when the parks are being scraped (via the Ruby-ProgressBar gem) makes the "dead-time" a user would experience more palatable. Fainally, I did some playing around with colorize in both form and function, making all selectable items one color and selected items another. I love seeing all this come together. 
+
+
+
+
+
+
 # conclusion 
-## Summer somewhere, SW
+
+
 Creativity comes from solving big problems. Hitting a wall is the best oppotunity to to let your imagination explore its inventiveness.
+
+
+
 ## Welcome to GitHub Pages
 
 
