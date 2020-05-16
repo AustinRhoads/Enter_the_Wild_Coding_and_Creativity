@@ -42,9 +42,9 @@ In my case I can use the url as the control factor. No two parks even with the s
 
 
 
-#  The Final Touches 
+#  Make it Better 
 
-The find-a-park-cli app worked but now I needed it to work better. When the app is launched the user is prompted to select a state and then select an activity to search by. As each list is pulled up there was a bit of a lag while it was being scraped and since a user could search for parks multiple times I didn't want this to be experienced at each search. The solution was to scrape both lists only once and assign them to a variable before the app prompts the user. Then I could refer to these variables throughout the app preventing a rescrape. Tidying up the code like this made the user interface flow better. Adding a loading bar to when the parks are being scraped (via the Ruby-ProgressBar gem) makes the "dead-time" a user would experience more palatable. Finally, I did some playing around with colorize in both form and function, making all selectable items one color and selected items another. I love seeing all this come together. 
+The find-a-park-cli app came about sort of organically. I built stuff when I needed it but now I needed it to work better. When the app is launched the user is prompted to select a state and then select an activity to search by. As each list is pulled up there was a bit of a lag while it was being scraped and since a user could search for parks multiple times I didn't want this to be experienced at each search. The solution was to scrape both lists only once and assign them to a variable before the app prompts the user. Then I could refer to these variables throughout the app preventing a rescrape. Tidying up the code like this made the user interface flow better. Adding a loading bar to when the parks are being scraped (via the Ruby-ProgressBar gem) makes the "dead-time" a user would experience more palatable. Finally, I did some playing around with colorize in both form and function, making all selectable items one color and selected items another. I love seeing all this come together. 
 
 
 
